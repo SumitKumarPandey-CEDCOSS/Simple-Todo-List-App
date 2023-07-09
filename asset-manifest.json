@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/simple-todo-list-app/static/css/main.79dc6af6.css",
+    "main.js": "/simple-todo-list-app/static/js/main.90855f31.js",
+    "static/js/787.ef953db6.chunk.js": "/simple-todo-list-app/static/js/787.ef953db6.chunk.js",
+    "static/media/img1.jpg": "/simple-todo-list-app/static/media/img1.688d28fbe8a140e335dc.jpg",
+    "index.html": "/simple-todo-list-app/index.html",
+    "main.79dc6af6.css.map": "/simple-todo-list-app/static/css/main.79dc6af6.css.map",
+    "main.90855f31.js.map": "/simple-todo-list-app/static/js/main.90855f31.js.map",
+    "787.ef953db6.chunk.js.map": "/simple-todo-list-app/static/js/787.ef953db6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79dc6af6.css",
+    "static/js/main.90855f31.js"
+  ]
+}
